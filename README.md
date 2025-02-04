@@ -1,5 +1,3 @@
-hannah-ibukun/README.md
-
 ## Hi there 👋
 
 My name is Hannah, and I'm a product designer interested in all things UI/UX Design and Web Design!
