@@ -6,7 +6,7 @@ My name is Hannah, and I'm a product designer interested in all things UI/UX Des
 - 👩‍💻  I'm currently learning HTML and CSS.
 - 😎  I recently worked on a blog website. You can check it out [here](https://github.com/Hannah-Ibukun/Blog-Website.git)
 - 🤗  I look forward to collaborating on start-up projects!
-  - Send me ideas to hannahibukun628@gmail.com
+  - Send me an email to hannahibukun628@gmail.com
     
 <!--
 **Hannah-Ibukun/hannah-ibukun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
