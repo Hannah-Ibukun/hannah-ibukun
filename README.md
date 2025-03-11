@@ -2,7 +2,7 @@
 
 My name is Hannah, and I'm a product designer interested in all things UI/UX Design and Web Design!
 
-- 🚀  I'm working on an [Omnifood website](https://github.com/Hannah-Ibukun/Omnifood-website.git) that encourages food subscriptions to make people eat healthy again.
+- 🚀  I'm working on an [Omnifood website](https://omnifood-hannah.vercel.app/) that encourages food subscriptions to make people eat healthy again.
 - 👩‍💻  I'm currently learning HTML5 and CSS3.
 - 😎  I recently worked on a blog website. You can check it out [here](https://github.com/Hannah-Ibukun/blog-website.git)
 - 🤗  I look forward to collaborating on start-up projects!
